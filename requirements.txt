@@ -2,3 +2,4 @@ streamlit
 pandas
 PyPDF2
 reportlab
+pdfplumber==0.10.3
